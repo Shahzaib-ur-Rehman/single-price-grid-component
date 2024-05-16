@@ -16,7 +16,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/single-price-grid-component)
-- Live Site URL: [single-price-grid-component](https://your-live-site-url.com)
+- Live Site URL: [single-price-grid-component](https://single-price-grid-component-drab-phi.vercel.app/)
 
 ## My process
 
